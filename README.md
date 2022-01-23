@@ -5,4 +5,4 @@ Analysis of 10-year prices of gold, silver and the WIG20 index in order to find 
 Technology: R.
 Required version: R 4.1.1 (recommended) or later
 
-Adress web aplication: https://kamil-szatkowski.shinyapps.io/analysis_of_investment_assets/
+Web application address: https://kamil-szatkowski.shinyapps.io/analysis_of_investment_assets/
